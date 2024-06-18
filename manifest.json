@@ -1,8 +1,8 @@
 {
-  "name": "BandaidsMegaCosmetics",
+  "name": "goofyAhhCosmetics",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/ThatOneRoo/BandaidsMegaCosmetics",
-  "description": "A large cosmetic pack by Bandaid Roo for the MoreCompany Lethal Company Mod by notnotnotswipez",
+  "website_url": "https://github.com/jinkout/goofyAhhCosmetics/",
+  "description": "the consequences of my own actions",
   "dependencies": [
     "notnotnotswipez-MoreCompany-1.7.2"
   ]
