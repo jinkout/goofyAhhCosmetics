@@ -4,6 +4,7 @@
   "website_url": "https://github.com/jinkout/goofyAhhCosmetics/",
   "description": "the consequences of my own actions",
   "dependencies": [
-    "notnotnotswipez-MoreCompany-1.7.2"
+    "notnotnotswipez-MoreCompany-1.7.2",
+    "BepInEx-BepInExPack-5.4.2100"
   ]
 }
